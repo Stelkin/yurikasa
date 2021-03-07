@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            webdev creations
+        </title>
+        <link rel="stylesheet" type="text/css" heref="new folder/style.css">
+    </head>
+    <body>
+        <header>
+            <div class="main">
+                <ul>
+                    <li><a heref=#>Home</a></li>
+                    <li><a heref=#>sevices</a></li>
+                    <li><a heref=#>gallery</a></li>
+                    <li><a heref=#>about</a></li>
+                    <li><a heref=#>contact</a></li>
+                </ul>
+            </div>
+        </header>
+    </body>
+
+
+</html>
